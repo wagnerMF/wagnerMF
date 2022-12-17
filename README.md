@@ -11,4 +11,4 @@ const aboutMe = {
    state: "São Paulo/Embu-Guaçú",
 };
 ```
-
+![Wagner's github stats](https://github-readme-stats.vercel.app/api?username=wagnermf&show_icons=true&hide_border=true&bg_color=white&title_color=blue&icon_color=red&text_color=black)
