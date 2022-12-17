@@ -1,4 +1,17 @@
 ### Hi there 👋
+<p align="center">
+  oi, sou wagner 
+</p>
+
+<h2> aboute Me</h2>
+
+```javascript
+const aboutMe = {
+   age: 39,
+   state: "São Paulo/Embu-Guaçú",
+``
+
+
 
 <!--
 **wagnerMF/wagnerMF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
