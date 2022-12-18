@@ -9,7 +9,7 @@
 const aboutMe = {
    age: 39,
    state: "São Paulo/Embu-Guaçú",
-    jobRole: "Web Developer" || "Full-Stack Developer",
+   jobRole: "Web Developer" || "Full-Stack Developer",
    company: "Global Editora",
    allocatedIn: "PJ/Studant",
    technologiesUsedInWork: ["NodeJS", "JavaScript", "SQLServer", "CSS"],
