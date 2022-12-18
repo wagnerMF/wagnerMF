@@ -11,7 +11,7 @@ const aboutMe = {
    jobRole: "Web Developer" || "Full-Stack Developer",
    company: "Global Editora",
    allocatedIn: "PJ/Studant",
-   technologiesUsedInWork: ["NodeJS", "JavaScript", "SQLServer", "CSS"],
+   technologiesUsedInWork: ["NodeJS", "JavaScript", "CSS", "HTML","SQLServer"],
    challenge: "Especializando em Full Stack Web, na Digital House",
    hobbies: ["Study", "Kart", "Car f1", "Movies action"]
 };
