@@ -31,7 +31,7 @@ const aboutMe = {
 <h2>🌎 &nbsp;Onde me encontrar</h2>
 <p>
   <a href="https://www.linkedin.com/in/wagnermfrodrigues/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:wmfrodrigues@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:gerencia988@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/wagnermfrodrigues/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
