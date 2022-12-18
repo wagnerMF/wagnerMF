@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQHYhWWv777YNw/profile-displaybackgroundimage-shrink_350_1400/0/1669856354957?e=1677110400&v=beta&t=tgbtMZ9vwUwdQM5qJQ4NrG-G9nczauMuySEQ9O7a5Hc"  alt="banner-Github" width="600" height="320" border="0"> 
+  <img src="https://user-images.githubusercontent.com/98858000/208317939-ca5e6bdc-53c5-4fe2-8022-425b126ff5da.jpg"  alt="banner-Github" border="0"> 
 </p>
 
 <h2> aboute Me</h2>
