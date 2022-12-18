@@ -20,10 +20,15 @@ const aboutMe = {
 ```
    
 <h2>👩🏾‍💻 &nbsp;Coisas com as quais codifico</h2>
-
 <p>
+  <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
   
-  <h2>🌎 &nbsp;Onde me encontrar</h2>
+<h2>🌎 &nbsp;Onde me encontrar</h2>
 <p>
   <a href="https://www.linkedin.com/in/wagnermfrodrigues/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:wmfrodrigues@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
