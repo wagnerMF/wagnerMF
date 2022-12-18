@@ -1,6 +1,5 @@
-### Hi there 👋
 <p align="center">
-  oi, sou wagner 
+  <img src="https://media.licdn.com/dms/image/D4D16AQHYhWWv777YNw/profile-displaybackgroundimage-shrink_350_1400/0/1669856354957?e=1677110400&v=beta&t=tgbtMZ9vwUwdQM5qJQ4NrG-G9nczauMuySEQ9O7a5Hc"  alt="banner-Github" width="600" height="320" border="0"> 
 </p>
 
 <h2> aboute Me</h2>
@@ -26,8 +25,8 @@ const aboutMe = {
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Javascript" src="https://img.shields.io/badge/CSS-css-green" />
-  <img alt="Javascript" src=" https://img.shields.io/badge/NODE.JS-nodes-green"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-css-green" />
+  <img alt="Nodes.js" src=" https://img.shields.io/badge/NODE.JS-nodes-green"/>
 </p>
   
 <h2>🌎 &nbsp;Onde me encontrar</h2>
