@@ -12,8 +12,7 @@ const aboutMe = {
    company: "Global Editora",
    allocatedIn: "PJ/Studant",
    technologiesUsedInWork: ["NodeJS", "JavaScript", "SQLServer", "CSS"],
-   favoriteApiClient: "Insomnia",
-   challenge: "I'm studying React Native, Java and doing a lot of research to launch a youtube channel about programming",
+   challenge: "Especializando em Full Stack Web, na Digital House",
    hobbies: ["Study", "Kart", "Car f1", "Movies action"]
 };
 ```
