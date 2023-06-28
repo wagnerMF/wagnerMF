@@ -9,7 +9,6 @@ const aboutMe = {
    age: 39,
    state: "São Paulo/Embu-Guaçú",
    jobRole: "Web Developer" || "Developer Front-End | Angular | Node",
-   allocatedIn: "PJ",
    technologiesUsedInWork: ["NodeJS", "JavaScript", "CSS", "HTML","SQLServer"],
    challenge: "Especializando em Full Stack Web, na Digital House",
    hobbies: ["Study", "Kart", "Car f1", "Movies action"]
