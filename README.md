@@ -1,7 +1,6 @@
 <p align="center">
-   
-
-  <img src="https://user-images.githubusercontent.com/98858000/1708386531372.jpg"  alt="banner-Github" border="0"> 
+  
+  <img src="https://user-images.githubusercontent.com/1708386531372.jpg"  alt="banner-Github" border="0"> 
 
   
 </p>
