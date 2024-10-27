@@ -7,9 +7,9 @@
 
 ```javascript
 const aboutMe = {
-   age: 40,
+   age: 41,
    state: "São Paulo/Embu-Guaçú",
-   Student: Web Design / Faculdade FiAP (estudando)
+   Student: Web Design / Faculdade FiAP (estudando) 2024
    jobRole: "Web Developer" || "Developer Front-End | Angular | Node",
    technologiesUsedInWork: ["NodeJS", "JavaScript", "CSS", "HTML","SQLServer"],
    challenge: "Especializando em Full Stack Web, na Digital House",
