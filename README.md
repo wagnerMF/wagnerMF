@@ -27,6 +27,8 @@ const aboutMe = {
   <img alt="CSS" src="https://img.shields.io/badge/CSS-css-green" />
   <img alt="Nodes.js" src="https://img.shields.io/badge/NODE.JS-nodes-green"/>
 </p>
+
+<p>💻 Desenvolvedor com mais de 10 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.</p>
   
 <h2>🌎 &nbsp;Onde me encontrar</h2>
 <p>
